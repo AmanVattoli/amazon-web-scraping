@@ -1,1 +1,1 @@
-# amazon-web-scraping
+# wikipedia-web-scraping
